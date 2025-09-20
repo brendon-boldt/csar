@@ -1,0 +1,10 @@
+{
+  "observations": [
+    ["x y", ["xy"]],
+    ["y", ["y"]]
+  ],
+  "morphemes": [
+    ["x y", ["xy"]],
+    ["y", ["y"]]
+  ]
+}

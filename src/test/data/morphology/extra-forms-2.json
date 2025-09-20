@@ -1,0 +1,12 @@
+{
+  "observations": [
+    ["blue", ["blue"]],
+    ["blue aaa", ["blue"]],
+    ["blue aaa", ["blue"]],
+    ["red", ["red"]]
+  ],
+  "morphemes": [
+    ["red", ["red"]],
+    ["blue", ["blue"]]
+  ]
+}

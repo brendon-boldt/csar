@@ -1,0 +1,26 @@
+{
+  "observations": [
+    ["blue car", ["blue", "car"]],
+    ["blue day", ["sad", "day"]],
+    ["blue mood", ["sad", "mood"]],
+    ["blue pen", ["blue", "pen"]],
+    ["blue square", ["blue", "square"]],
+    ["blue circle", ["blue", "circle"]],
+    ["blue triangle", ["blue", "triangle"]],
+    ["blue pen", ["blue", "pen"]],
+    ["red pen", ["red", "pen"]],
+    ["red car", ["red", "car"]]
+  ],
+  "morphemes": [
+    ["red", ["red"]],
+    ["car", ["car"]],
+    ["pen", ["pen"]],
+    ["blue", ["blue"]],
+    ["blue", ["sad"]],
+    ["day", ["day"]],
+    ["square", ["square"]],
+    ["circle", ["circle"]],
+    ["triangle", ["triangle"]],
+    ["mood", ["mood"]]
+  ]
+}

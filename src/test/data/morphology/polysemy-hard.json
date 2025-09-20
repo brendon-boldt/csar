@@ -1,0 +1,38 @@
+{
+  "observations": [
+    ["blue car", ["blue", "car"]],
+    ["blue mood", ["sad", "mood"]],
+    ["feeling blue", ["sad", "feeling"]],
+    ["blue truck", ["blue", "truck"]],
+    ["blue pen", ["blue", "pen"]],
+    ["red pen", ["red", "pen"]],
+    ["red truck", ["red", "truck"]],
+    ["pig pen", ["pig", "enclosure"]],
+    ["play pen", ["play", "enclosure"]],
+    ["play truck", ["play", "truck"]],
+    ["funny feeling", ["funny", "feeling"]],
+    ["pig", ["pig"]],
+    ["feeling sad", ["sad", "feeling"]],
+    ["blue day", ["sad", "day"]],
+    ["blue pig", ["blue", "pig"]],
+    ["sad mood", ["sad", "mood"]],
+    ["happy mood", ["happy", "mood"]]
+  ],
+  "morphemes": [
+    ["funny", ["funny"]],
+    ["blue", ["blue"]],
+    ["blue", ["sad"]],
+    ["red", ["red"]],
+    ["day", ["day"]],
+    ["car", ["car"]],
+    ["feeling", ["feeling"]],
+    ["happy", ["happy"]],
+    ["sad", ["sad"]],
+    ["play", ["play"]],
+    ["mood", ["mood"]],
+    ["pig", ["pig"]],
+    ["truck", ["truck"]],
+    ["pen", ["pen"]],
+    ["pen", ["enclosure"]]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "observations": [
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["red car", ["red", "car"]],
+    ["blue car", ["blue", "car"]],
+    ["red hat", ["red", "hat"]],
+    ["blue hat", ["blue", "hat"]]
+  ],
+  "morphemes": [
+    ["red", ["red"]],
+    ["blue", ["blue"]],
+    ["car", ["car"]],
+    ["hat", ["hat"]]
+  ]
+}

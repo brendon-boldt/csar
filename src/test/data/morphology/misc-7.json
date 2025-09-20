@@ -1,0 +1,22 @@
+{
+  "observations": [
+    ["hot pepper", ["spicy", "pepper"]],
+    ["hot sauce", ["spicy", "sauce"]],
+    ["hot iron", ["hot", "iron"]],
+    ["cold iron", ["cold", "iron"]],
+    ["hot water", ["hot", "water"]],
+    ["water", ["water"]],
+    ["red pepper", ["red", "pepper"]],
+    ["red sauce", ["red", "sauce"]]
+  ],
+  "morphemes": [
+    ["hot", ["spicy"]],
+    ["sauce", ["sauce"]],
+    ["hot", ["hot"]],
+    ["red", ["red"]],
+    ["cold", ["cold"]],
+    ["iron", ["iron"]],
+    ["water", ["water"]],
+    ["pepper", ["pepper"]]
+  ]
+}

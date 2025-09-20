@@ -1,0 +1,27 @@
+{
+  "observations": [
+    ["green card", ["green_card"]],
+    ["green hat", ["green", "hat"]],
+    ["green truck", ["green", "truck"]],
+    ["red card", ["red_card"]],
+    ["red hat", ["red", "hat"]],
+    ["red truck", ["red", "truck"]],
+    ["orange card", ["orange", "card"]],
+    ["orange hat", ["orange", "hat"]],
+    ["orange truck", ["orange", "truck"]],
+    ["blue card", ["blue", "card"]],
+    ["blue hat", ["blue", "hat"]],
+    ["blue truck", ["blue", "truck"]]
+  ],
+  "morphemes": [
+    ["green", ["green"]],
+    ["blue", ["blue"]],
+    ["orange", ["orange"]],
+    ["red", ["red"]],
+    ["card", ["card"]],
+    ["truck", ["truck"]],
+    ["hat", ["hat"]],
+    ["green card", ["green_card"]],
+    ["red card", ["red_card"]]
+  ]
+}

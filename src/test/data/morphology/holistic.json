@@ -1,0 +1,14 @@
+{
+  "observations": [
+    ["ferrari", ["red", "car"]],
+    ["ford-gt", ["blue", "car"]],
+    ["firetruck", ["red", "truck"]],
+    ["f150", ["blue", "truck"]]
+  ],
+  "morphemes": [
+    ["ferrari", ["red", "car"]],
+    ["ford-gt", ["blue", "car"]],
+    ["firetruck", ["red", "truck"]],
+    ["f150", ["blue", "truck"]]
+  ]
+}

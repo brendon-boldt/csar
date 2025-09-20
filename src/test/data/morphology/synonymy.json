@@ -1,0 +1,20 @@
+{
+  "observations": [
+    ["blue car", ["blue", "car"]],
+    ["azure car", ["blue", "car"]],
+    ["brown car", ["brown", "car"]],
+    ["auburn car", ["brown", "car"]],
+    ["blue sedan", ["blue", "car"]],
+    ["auburn truck", ["brown", "truck"]],
+    ["blue truck", ["blue", "truck"]]
+  ],
+  "morphemes": [
+    ["blue", ["blue"]],
+    ["azure", ["blue"]],
+    ["brown", ["brown"]],
+    ["auburn", ["brown"]],
+    ["car", ["car"]],
+    ["sedan", ["car"]],
+    ["truck", ["truck"]]
+  ]
+}

@@ -1,0 +1,15 @@
+[project]
+name = "morpheme-extractor"
+requires-python = ">=3.13"
+
+[tool.pytest.ini_options]
+log_cli=false
+log_level="INFO"
+addopts = "-nauto"
+
+[tool.mypy]
+packages = "src"
+
+[[tool.mypy.overrides]]
+module = ["tqdm", "scipy.*", "joblib", "nltk", "morfessor", "tokenizers", "datasets"]
+ignore_missing_imports = true

@@ -1,0 +1,12 @@
+{
+  "observations": [
+    ["red", ["red"]],
+    ["card", ["card"]],
+    ["red card", ["red_card"]]
+  ],
+  "morphemes": [
+    ["red", ["red"]],
+    ["card", ["card"]],
+    ["red card", ["red_card"]]
+  ]
+}

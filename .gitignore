@@ -1,0 +1,9 @@
+.envrc
+/data/
+__pycache__/
+/output
+/save
+/misc
+.mypy_cache
+software.tgz
+data.tgz

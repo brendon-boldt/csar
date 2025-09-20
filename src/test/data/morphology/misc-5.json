@@ -1,0 +1,21 @@
+{
+  "observations": [
+    ["green card", ["green-card"]],
+    ["blue card", ["blue", "card"]],
+    ["blue card", ["blue", "card"]],
+    ["blue card", ["blue", "card"]],
+    ["blue card", ["blue", "card"]],
+    ["blue", ["blue"]],
+    ["brown", ["brown"]],
+    ["brown card", ["brown", "card"]],
+    ["brown card", ["brown", "card"]],
+    ["green", ["green"]]
+  ],
+  "morphemes": [
+    ["blue", ["blue"]],
+    ["brown", ["brown"]],
+    ["green", ["green"]],
+    ["card", ["card"]],
+    ["green card", ["green-card"]]
+  ]
+}
